@@ -1,0 +1,24 @@
+{
+  "name": "blog-ejs",
+  "version": "1.0.0",
+  "description": "blog to practice ejs templates",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briansui21/blog.git"
+  },
+  "author": "Brian Sui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briansui21/blog/issues"
+  },
+  "homepage": "https://github.com/briansui21/blog#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
